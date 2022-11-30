@@ -15,7 +15,7 @@ const Header = () => {
   return (
     <Navbar sticky='top' collapseOnSelect expand="lg" bg="light" variant="light">
       <Container>
-        <Navbar.Brand href="#home">
+        <Navbar.Brand href="/home">
           <img style={{width: '35px'}} src={logo} alt="" />
           <span className="ms-1">Smile</span>
         </Navbar.Brand>
