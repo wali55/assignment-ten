@@ -10,7 +10,7 @@ const Service = ({ service }) => {
         <h4 className="card-title">{name}</h4>
         <h6 className="card-title my-3">${price}</h6>
         <p className="card-text fst-italic">{description}</p>
-        <a href="/checkout" class="btn btn-info text-white">Book an Appointment</a>
+        <a href="/make-an-appointment" class="btn btn-info text-white">Make an Appointment</a>
       </div>
     </div>
   </div>
