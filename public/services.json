@@ -1,0 +1,34 @@
+[
+    {
+      "id": "6386ec6d0225aba3cd554380",
+      "picture": "https://i.ibb.co/5xcQfBV/general-checkup.jpg",
+      "price": 100,
+      "name": "Dental Exams And Check-Ups",
+      "description": "There are two parts to your Embassy Dental visit – examination and cleaning. Your exam will check for cavities, plaque, and tartar on your teeth."
+    },
+    {
+      "id": "6386ec6dd204bc22786784c5",
+      "picture": "https://i.ibb.co/GJVfBYg/tooth-extraction.jpg",
+      "price": 200,
+      "name": "Tooth Extraction",
+      "description": "While many of us do our best to keep our teeth healthy, sometimes a tooth needs to be taken out to keep you healthy. In these cases, an extraction is necessary."
+    },
+    {
+      "id": "6386ec6d85797c8123479e1f",
+      "picture": "https://i.ibb.co/PGZc984/dental-filling.jpg",
+      "price": 300,
+      "name": "Fillings",
+      "description": "A toothache can disrupt your life. Tooth decay, cracked teeth, and cavities will provide a constant and painful reminder. At Embassy Dental we have completed thousands of fillings."
+    },
+    {
+      "id": "6386ec6d0e4fcce285ab6916",
+      "picture": "https://i.ibb.co/KzyQzN7/root-canal.jpg",
+      "price": 500,
+      "name": "Root Canal Therapy",
+      "description": "A Root canal is a treatment used to repair or save a tooth that is decayed or infected. Without proper treatment, the tissue surrounding the tooth may become infected and form painful abscesses."
+    }
+  ]
+
+  
+
+
